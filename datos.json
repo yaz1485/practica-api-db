@@ -1,0 +1,12 @@
+[
+  { "nombre": "Carlos Pérez", "genero": "Masculino" },
+  { "nombre": "Ana Gómez", "genero": "Femenino" },
+  { "nombre": "Luis Martínez", "genero": "Masculino" },
+  { "nombre": "María Rodríguez", "genero": "Femenino" },
+  { "nombre": "José Hernández", "genero": "Masculino" },
+  { "nombre": "Sofía López", "genero": "Femenino" },
+  { "nombre": "David González", "genero": "Masculino" },
+  { "nombre": "Lucía Ramírez", "genero": "Femenino" },
+  { "nombre": "Jorge Torres", "genero": "Masculino" },
+  { "nombre": "Elena Flores", "genero": "Femenino" }
+]
